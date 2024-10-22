@@ -1,6 +1,6 @@
 import webbrowser
 
-api_key = key = '75FDA9745EBE1B1E5A6E35D6F9E40D38'
+api_key = key = ''
 file = open(r"ids.txt", "r")
 ids = []
 lines = file.readlines()
